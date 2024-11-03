@@ -20,5 +20,5 @@
 2. Level sensitive SR latch
 3. JK latch
 4. Master/Slave FF
-5. Edge-triggered FF
+5. Edge-triggered FF (D, JK, T)
 6. etc
